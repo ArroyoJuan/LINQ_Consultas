@@ -1,0 +1,82 @@
+﻿<Empleados>
+	<Empleado>
+		<Id>1</Id>
+		<Nombre>Juan Pérez</Nombre>
+		<Edad>45</Edad>
+		<Departamento>TI</Departamento>
+		<Salario>55000</Salario>
+	</Empleado>
+
+	<Empleado>
+		<Id>2</Id>
+		<Nombre>Ana González</Nombre>
+		<Edad>34</Edad>
+		<Departamento>Marketing</Departamento>
+		<Salario>45000</Salario>
+	</Empleado>
+
+	<Empleado>
+		<Id>3</Id>
+		<Nombre>Carlos Méndez</Nombre>
+		<Edad>46</Edad>
+		<Departamento>TI</Departamento>
+		<Salario>56000</Salario>
+	</Empleado>
+
+	<Empleado>
+		<Id>4</Id>
+		<Nombre>Lucía Ramírez</Nombre>
+		<Edad>12</Edad>
+		<Departamento>Ventas</Departamento>
+		<Salario>46000</Salario>
+	</Empleado>
+
+	<Empleado>
+		<Id>5</Id>
+		<Nombre>José López</Nombre>
+		<Edad>42</Edad>
+		<Departamento>TI</Departamento>
+		<Salario>53000</Salario>
+	</Empleado>
+
+	<Empleado>
+		<Id>6</Id>
+		<Nombre>María Torres</Nombre>
+		<Edad>27</Edad>
+		<Departamento>Marketing</Departamento>
+		<Salario>45500</Salario>
+	</Empleado>
+
+	<Empleado>
+		<Id>7</Id>
+		<Nombre>David Sánchez</Nombre>
+		<Edad>44</Edad>
+		<Departamento>TI</Departamento>
+		<Salario>54500</Salario>
+	</Empleado>
+
+	<Empleado>
+		<Id>8</Id>
+		<Nombre>Elena Castro</Nombre>
+		<Edad>20</Edad>
+		<Departamento>Ventas</Departamento>
+		<Salario>77000</Salario>
+	</Empleado>
+
+	<Empleado>
+		<Id>9</Id>
+		<Nombre>Fernando Ríos</Nombre>
+		<Edad>47</Edad>
+		<Departamento>TI</Departamento>
+		<Salario>57000</Salario>
+	</Empleado>
+
+	<Empleado>
+		<Id>10</Id>
+		<Nombre>Sofía Herrera</Nombre>
+		<Edad>15</Edad>
+		<Departamento>Marketing</Departamento>
+		<Salario>44000</Salario>
+	</Empleado>
+
+</Empleados>
